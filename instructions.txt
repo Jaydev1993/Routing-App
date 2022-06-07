@@ -1,0 +1,5 @@
+Assignment - 
+Create login page with fields like username and password along with login button. Username should only accept email and password should contain minimum 8 characters(1 special, 1 uppercase, 1 lowercase and 1 numeric is mandatory). After entering credentials navigate to another route which will have sidebar with links and a container. After clicking on each link navigate to different route.
+
+Follow the below link to use reactstrap components - 
+https://reactstrap.github.io/
